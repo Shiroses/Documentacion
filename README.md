@@ -1,0 +1,1 @@
+En este documento vamos hablar de como utilizar Github esta guia **NO** va a ser sobre como instalar ya que hay muchas guias por ahi que explicacn muy bien ese p`roceso ademas esta guia va a ser dirigida a mis compañeros para que se puedan apoyar en algo mas concreto
