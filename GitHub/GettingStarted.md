@@ -62,8 +62,34 @@ Para empezar un repositorio hay dos formas principales de hacerlo: directamente 
 
 ---
 
-### Como crear un Repositorio desde VS Code
+### 🟣 Cómo crear un repositorio desde VS Code
 
-1. Abrimos VS Code y creamos una nueva carpeta
+1. **Abrir VS Code y crear una carpeta**  
+   Abre VS Code, selecciona una nueva carpeta y crea un archivo, por ejemplo: `README.md`.
 
-![alt text](../Resources/Images/CVSCodePag1.png)
+   ![Abrir carpeta en VS Code](../Resources/Images/CVSCodePag1.png)
+
+   Así se verá tu espacio de trabajo:
+
+   ![Vista de carpeta y archivo](../Resources/Images/CVSCodePag3.1.png)
+
+2. **Ir al control de versiones**  
+   Haz clic en el ícono de control de versiones (barra lateral izquierda). Aparecerán dos opciones, selecciona **Publicar en GitHub**.
+
+   ![Control de versiones](../Resources/Images/CVSCodePag4.png)
+
+3. **Configurar el repositorio**  
+   En la parte superior aparecerá una ventana para configurar el nombre y la visibilidad del repositorio (público o privado).
+
+   ![Configuración de repositorio](../Resources/Images/CVSCodePag4.1.png)
+
+   Confirma los archivos que se subirán (por ejemplo, `README.md`) y haz clic en **OK**.
+
+   ![Confirmar archivos](../Resources/Images/CVSCodePag4.2.png)
+
+---
+
+¡Listo! Así terminas de crear y conectar tu repositorio con GitHub directamente desde VS Code, todo en unos pocos clics.
+
+---
+
