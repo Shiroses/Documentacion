@@ -1,4 +1,4 @@
-# 🚀 Getting Started with GitHub
+# 🚀 Empezando con GitHub
 
 ## Creando un nuevo repositorio
 
@@ -66,6 +66,8 @@ Para empezar un repositorio hay dos formas principales de hacerlo: directamente 
 
 1. **Abrir VS Code y crear una carpeta**  
    Abre VS Code, selecciona una nueva carpeta y crea un archivo, por ejemplo: `README.md`.
+   >💡 **Recuerda:**  
+   > La extensión `.md` corresponde a **Markdown**, un formato de texto ligero que permite dar formato y estructura a tus documentos de manera sencilla, similar a un bloc de notas pero con opciones de estilo y organización.  
 
    ![Abrir carpeta en VS Code](../Resources/Images/CVSCodePag1.png)
 
@@ -93,3 +95,4 @@ Para empezar un repositorio hay dos formas principales de hacerlo: directamente 
 
 ---
 
+En resumen, crear y conectar un repositorio en GitHub es un proceso sencillo tanto desde la web como desde VS Code. Siguiendo estos pasos, puedes comenzar a gestionar tus proyectos de forma organizada y colaborativa en pocos minutos.
