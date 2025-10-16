@@ -1,21 +1,18 @@
-# 🚀 Guía Básica de Git y GitHub
+# 🚀 Documentación Básica General
+Bienvenido a esta guía práctica donde discutiremos sobre como manejar y usar tus proyectos de manera eficiente y otras cosas básicas.
 
-Bienvenido a esta guía práctica donde aprenderás a utilizar **Git** y **GitHub** para gestionar y colaborar en tus proyectos de manera eficiente. Aquí descubrirás los conceptos y pasos esenciales para:
+Esta guía funciona como un Database colaborativo, donde la idea es que todos podamos aportar, aprender y apoyarnos mutuamente, compartiendo conocimientos y buenas prácticas.
 
-- 📁 **Crear un repositorio** desde cero.
-- 📝 **Publicar cambios** en tu repositorio.
-- 🌿 **Crear y trabajar con ramas** para organizar tus desarrollos.
-- 💻 **Clonar un repositorio** de GitHub a tu computadora.
-- 🔄 **Sincronizar y traer los últimos cambios** de tu repositorio remoto.
-
-Esta guía funciona como un **Database colaborativo**, donde la idea es que todos podamos aportar, aprender y apoyarnos mutuamente, compartiendo conocimientos y buenas prácticas.
-
-> **Nota:**  
-> En este documento nos enfocaremos en el uso diario de GitHub.  
-> **No** cubriremos el proceso de instalación de Git o VS Code, ya que existen muchas guías excelentes sobre ese tema.  
-> Este material está pensado especialmente para mis compañeros, para que puedan apoyarse en un recurso concreto, sencillo y práctico.
-
-
----
+> Nota:
+> En este documento nos enfocaremos en temas basicos que estamos viendo y se ira actualizando apropiadamente o por sugerencias.
+> No cubriremos el proceso de instalación de Git o VS Code, ya que existen muchas guías excelentes sobre ese tema.
+> Este material está pensado para novatos, para que puedan apoyarse en un recurso concreto, sencillo y práctico.
 
 ¡Comencemos! 🚦
+
+### 📄 Contenido
+
+- 🔀 Git, GitHub y VS Code
+  - 🛠️ Cómo crear un repositorio
+  - 📝 Cómo hacer stage, commit y push
+  - 🔄 Uso de fetch, pull y merge
