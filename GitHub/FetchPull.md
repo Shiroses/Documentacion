@@ -53,34 +53,6 @@ De esta forma, puedes usar `fetch` para mantenerte informado de los cambios en e
 
 ---
 
-### 🔀 ¿Qué es Merge y cómo se usa en la Terminal?
-
-Si estás de acuerdo con los cambios traídos con `fetch`, puedes combinarlos con tu rama local usando **merge**.  
-El comando `merge` en Git sirve para unir dos ramas, integrando los cambios de una en otra.
-
-5. **Confirma que estás en tu rama principal (`main`)**  
-   Ejecuta:
-
-   ```bash
-   git checkout main
-   ```
-   > Si sabes que estás en la rama principal puedes saltarte este paso.
-
-6. **Combina los cambios de la rama remota con la local**  
-   Ahora, aplica el merge:
-
-   ```bash
-   git merge origin/main
-   ```
-
-   > Esto integrará los cambios de `origin/main` en tu rama local `main`. Si hay conflictos, Git te avisará para que los resuelvas manualmente.
-
----
-
-¡Y así has sincronizado tu proyecto local con el repositorio remoto desde la terminal!
-
----
-
 Ahora vamos a hacer lo mismo desde la interfaz de VS Code.
 
 ## 💻 Fetch desde VS Code
@@ -101,13 +73,7 @@ Ahora vamos a hacer lo mismo desde la interfaz de VS Code.
 
    ![Previsualización de cambios](../Resources/Images/PVSCodePag2.png)
 
----
-
 Ya tienes los cambios del repositorio remoto. Ahora hay que combinarlos con la rama principal usando un `merge`.
-
-### 🔀 Merge desde VS Code
-
-En VS Code no se puede hacer un merge directamente desde la interfaz, pero puedes hacerlo usando un **pull**, que explico a continuación.
 
 ---
 
@@ -118,7 +84,7 @@ Para hacer un pull (es decir, hacer un fetch y merge automáticamente)
 1. **Ejecuta el siguiente comando en la terminal:**
 
    ```bash
-   git pull origin main
+   git pull
    ```
 
 Con este comando traerás y aplicarás los cambios del repositorio remoto a tu proyecto local de forma automática.
@@ -129,7 +95,7 @@ Con este comando traerás y aplicarás los cambios del repositorio remoto a tu p
 
 Para hacer un pull desde VS Code
 1. **En la ventana de control de versiones**
-   
+
    Haz clic en el botón de **pull** en la pestaña de historial. Esto traerá y aplicará todos los cambios del repositorio remoto.
 
    También puedes usar el botón de **sincronizar**. Esto realiza un pull y un push, priorizando los archivos más recientes para la sobreescritura.
@@ -138,4 +104,4 @@ Para hacer un pull desde VS Code
 
 ---
 
-Realizar fetch, merge y pull es fundamental para mantener tu proyecto actualizado y sincronizado, especialmente cuando trabajas en equipo. Ya sea desde la terminal o desde la interfaz de VS Code, estos comandos te ayudarán a colaborar de manera eficiente y segura.
+Realizar fetch y pull es fundamental para mantener tu proyecto actualizado y sincronizado, especialmente cuando trabajas en equipo. Ya sea desde la terminal o desde la interfaz de VS Code, estos comandos te ayudarán a colaborar de manera eficiente y segura.
