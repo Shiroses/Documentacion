@@ -1,0 +1,7 @@
+{
+    "editor.wordWrap": "bounded",
+    "editor.wrapOnEscapedLineFeeds": true,
+    "diffEditor.wordWrap": "on",
+    "notebook.output.wordWrap": true,
+    "chat.editor.wordWrap": "on"
+}
