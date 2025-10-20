@@ -94,7 +94,7 @@ Y asi de rapido se pueden crear nuevas ramas apartir de ramas o commits ya exist
 
 Para crear ramas desde VS Code vamos a trabajar desde la página de control de versiones y nos vamos a enfocar en la *`pestaña de gráfica`* y *`cambios`*:
 
-![alt text](../Resources/Images/ComVSCodePag1.png)
+![Inicio VS Code](<../Resources/Git, Github y VS Code/Images/ComVSCodePag1.png>)
 
 - **En el panel de Cambios:**
 
