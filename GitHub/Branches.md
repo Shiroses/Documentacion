@@ -94,16 +94,16 @@ Y asi de rapido se pueden crear nuevas ramas apartir de ramas o commits ya exist
 
 Para crear ramas desde VS Code vamos a trabajar desde la página de control de versiones y nos vamos a enfocar en la *`pestaña de gráfica`* y *`cambios`*:
 
-![Inicio VS Code](<../Resources/Git, Github y VS Code/Images/ComVSCodePag1.png>)
+![Inicio VS Code](<../Resources/Git_Github_Y_VSCode/Images/ComVSCodePag1.png>)
 
 - **En el panel de Cambios:**
 
   - Le damos a los tres puntos.  
-  - En el menú seleccionamos `Rama...`.  
-  - En el submenú seleccionamos `Crear Rama...`.  
+  - En el menú seleccionamos `Rama...`
+  - En el submenú seleccionamos `Crear Rama...`
   - En la `toolbar` le ponemos un nuevo nombre y confirmamos.
 
-    <video controls src="../Resources/Git, Github y VS Code/Videos/NRama.mp4" title="Title"></video>
+    <video controls src="../Resources/Git_Github_Y_VSCode/Videos/NRama.mp4" title="Title"></video>
 
     Así quedaría la pestaña de gráfico. Como podemos ver, cambia de una vez a la nueva rama como si de `git checkout -b` se tratase.
 
@@ -116,7 +116,7 @@ También podemos crearla desde una rama existente:
   - En la `toolbar` seleccionamos la rama de la que vamos a sacar la nueva.  
   - Le ponemos un nuevo nombre y confirmamos.
 
-    <video controls src="../Resources/Git, Github y VS Code/Videos/CRRama.mp4" title="Title"></video>
+    <video controls src="../Resources/Git_Github_Y_VSCode/Videos/CRRama.mp4" title="Title"></video>
 
 O incluso desde un commit:
 
@@ -124,9 +124,9 @@ O incluso desde un commit:
 
   - Seleccionamos el commit y le damos clic derecho.  
   - En el menú seleccionamos `Crear rama...`
-  - En la `toolba`
+  - En la `toolbar`
 
-    <video controls src="../Resources/Git, Github y VS Code/Videos/CCRama.mp4" title="Title"></video>
+    <video controls src="../Resources/Git_Github_Y_VSCode/Videos/CCRama.mp4" title="Title"></video>
 
 Terminada la creación de rama, vamos a mirar cómo cambiar de ramas en VS Code:
 
@@ -136,7 +136,7 @@ Terminada la creación de rama, vamos a mirar cómo cambiar de ramas en VS Code:
   - En el menú seleccionamos `Checkout a...`
   - En la `toolbar` seleccionamos la rama a la que queremos cambiar.
 
-    <video controls src="../Resources/Git, Github y VS Code/Videos/SRama.mp4" title="Title"></video>
+    <video controls src="../Resources/Git_Github_Y_VSCode/Videos/SRama.mp4" title="Title"></video>
 
 Y así de sencillo podemos crear y cambiar de ramas en VS Code.
 
@@ -153,7 +153,7 @@ En esta pequeña sección vamos a revisar las raras ocasiones en las que es nece
 
 > Eliminar ramas innecesarias ayuda a mantener el repositorio **limpio** y **organizado**.
 
-⚠️⚠️**TEN EN CUENTA QUE ELIMINAR UNA RAMA NO NECESITA CONFIRMACION. USAR CON PRECAUCION**⚠️⚠️
+⚠️⚠️**TEN EN CUENTA QUE ELIMINAR UNA RAMA NO TE PIDE CONFIRMACION!!!. USAR CON PRECAUCION**⚠️⚠️
 
 1. **Borrando desde la terminal**
 
@@ -186,6 +186,6 @@ En esta pequeña sección vamos a revisar las raras ocasiones en las que es nece
 
     > No se puede eliminar la rama si estamos en la misma, asegúrate de estar en otra.
 
-    <video controls src="../Resources/Git, Github y VS Code/Videos/DRama.mp4" title="Title"></video>
+    <video controls src="../Resources/Git_Github_Y_VSCode/Videos/DRama.mp4" title="Title"></video>
 
 > En el video no se mostró, pero como la rama no ha hecho `merge` con otra rama, me pidió confirmación; solo deben darle a aceptar.

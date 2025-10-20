@@ -16,7 +16,7 @@ Existen varias formas de hacerlo. Aquí veremos las más comunes: usando la **te
 1. **Abrir la terminal integrada**  
    Usa el atajo `Ctrl + Shift + ñ` o ``Ctrl + Shift + ` `` para abrir una nueva terminal, o ve al menú `Terminal` en la parte superior y selecciona `Nueva Terminal`.
 
-   ![Abrir terminal en VS Code](../Resources/Images/CVSCodePag2.png)
+   ![Abrir terminal en VS Code](../Resources/Git_Github_Y_VSCode//Images/CVSCodePag2.png)
 
 2. **Preparar los archivos para el commit**  
    Indica a Git cuáles archivos quieres preparar con el comando:
@@ -66,19 +66,19 @@ Con esto terminamos de hacer el commit desde la terminal. Como puedes ver, es un
    - **Pestaña de cambios y staging:** donde puedes preparar archivos para el commit.
    - **Pestaña de historial:** donde puedes ver los commits realizados y sus mensajes.
 
-   ![Control de versiones en VS Code](../Resources/Images/ComVSCodePag1.png)
+   ![Control de versiones en VS Code](../Resources/Git_Github_Y_VSCode//Images/ComVSCodePag1.png)
 
 2. **Preparar archivos para el commit**  
    En la pestaña de cambios, al pasar el mouse sobre "Changes" verás varios íconos:
    - El ícono `+` en la pestaña Changes prepara **todos** los archivos editados o agregados.
    - El ícono `+` junto a cada archivo prepara **solo ese archivo**.
 
-   ![Preparar archivos para commit](../Resources/Images/ComVSCodePag1.1.png)
+   ![Preparar archivos para commit](../Resources/Git_Github_Y_VSCode//Images/ComVSCodePag1.1.png)
 
 3. **Hacer el commit**  
    Una vez seleccionados los archivos, aparecerán como preparados y el botón de **Commit** se volverá azul. Escribe un mensaje descriptivo y haz clic en el botón para realizar el commit.
 
-   ![Botón de commit](../Resources/Images/ComVSCodePag1.2.png)
+   ![Botón de commit](../Resources/Git_Github_Y_VSCode//Images/ComVSCodePag1.2.png)
 
 > 📝 **Recuerda:**  
 > El mensaje del commit debe ser claro y explicar brevemente qué cambios realizaste. Esto facilita el seguimiento y la colaboración en el proyecto.
@@ -90,7 +90,7 @@ Con esto terminamos de hacer el commit desde la terminal. Como puedes ver, es un
    - **Botón de sincronizar:** Toma el archivo editado más reciente y sincroniza entre tu computadora y el repositorio trayendo tambien los archivos mas recientes. Es útil para proyectos personales donde sabes exactamente qué se ha editado.
    - **Botón de push en la pestaña de historial:** Publica el último commit hecho en tu computadora, pero **no** trae cambios del repositorio remoto.
 
-   ![Sincronizar o hacer push](../Resources/Images/ComVSCodePag1.3.png)
+   ![Sincronizar o hacer push](../Resources/Git_Github_Y_VSCode//Images/ComVSCodePag1.3.png)
 
 ---
 

@@ -60,7 +60,7 @@ Ahora vamos a hacer lo mismo desde la interfaz de VS Code.
 1. **En la ventana de control de versiones y en la pestaña de historial**  
    Podemos ver varios botones de izquierda a derecha: el selector de ramas, volver al punto actual de la rama, fetch, pull, push y actualizar el historial.
 
-   ![Botones de control de versiones en VS Code](../Resources/Images/PVSCodePag1.png)
+   ![Botones de control de versiones en VS Code](../Resources/Git_Github_Y_VSCode//Images/PVSCodePag1.png)
 
    Vamos a enfocarnos en las ramas y en fetch.  
    - Con el botón de **ramas** puedes cambiar qué ramas se muestran en la pestaña del historial.
@@ -71,7 +71,7 @@ Ahora vamos a hacer lo mismo desde la interfaz de VS Code.
 
    En la previsualización se abren dos ventanas: a la izquierda el archivo viejo y a la derecha el más nuevo. Las líneas rojas indican datos borrados y las verdes, datos agregados.
 
-   ![Previsualización de cambios](../Resources/Images/PVSCodePag2.png)
+   ![Previsualización de cambios](../Resources/Git_Github_Y_VSCode//Images/PVSCodePag2.png)
 
 Ya tienes los cambios del repositorio remoto. Ahora hay que combinarlos con la rama principal usando un `merge`.
 
@@ -100,7 +100,7 @@ Para hacer un pull desde VS Code
 
    También puedes usar el botón de **sincronizar**. Esto realiza un pull y un push, priorizando los archivos más recientes para la sobreescritura.
 
-   ![alt text](../Resources/Images/PVSCodePag3.png)
+   ![alt text](../Resources/Git_Github_Y_VSCode//Images/PVSCodePag3.png)
 
 ---
 
