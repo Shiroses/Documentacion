@@ -16,3 +16,8 @@ Esta guía funciona como un Database colaborativo, donde la idea es que todos po
   - 🛠️ Cómo crear un repositorio
   - 📝 Cómo hacer stage, commit y push
   - 🔄 Uso de fetch, pull y merge
+
+- 💻 Pseudocodigo
+  - 🧠 Tablas de Verdades
+  - 🔢 Variables y Operadores arimeticos
+  - ⚙️ Estructuras, Condicionales y Ciclos
