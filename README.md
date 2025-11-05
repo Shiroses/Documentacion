@@ -28,7 +28,7 @@ Su propósito es servir como una **plataforma de aprendizaje compartido**, donde
 
 ## 📄 Contenido
 
-<details open>
+<details>
 <summary>🖥️ <strong>Git, GitHub y VS Code</strong></summary>
 
 > Guías prácticas sobre control de versiones y entornos de desarrollo.
